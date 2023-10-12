@@ -21,7 +21,7 @@ while (running == true)
         }
         else if (option == "2")
         {
-            updateFile("C:\\Users\\GC248\\Downloads\\test\\users.csv", "C:\\Users\\USERNAME\\Downloads\\test\\info.csv");
+            updateFile("C:\\Users\\USERNAME\\Downloads\\test\\users.csv", "C:\\Users\\USERNAME\\Downloads\\test\\info.csv");
             running = false;
         }
         else if (option == "y")
